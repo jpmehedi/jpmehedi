@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Dart, Flutter, UX-UI
-- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Dicect Contact: +8801790180825
+- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: +8801790180825
 - ⚡ Fun fact: coffee and bugs
 -->
 
