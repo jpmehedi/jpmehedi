@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! I AM FLUTTER DEVELOPER 👋
 
-<!--
-**jpmehedi/jpmehedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Code Studio
+- 🌱 I’m currently learning Dart & Flutter
+- 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about: Dart, Flutter, UX-UI
+- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Dicect Contact: +8801790180825
+- ⚡ Fun fact: coffee and bugs
 -->
+
+### MY STACK
+'''Dart
+{
+"Frontend" : ['Flutter', 'Dart']
+"Backend"  : ['FireBase','FireStore','SQLFLite'],
+"UI"       : ['Meterial Design', 'SwiftUI']
+}
+'''
