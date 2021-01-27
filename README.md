@@ -25,8 +25,9 @@
 
 ``` Dart
 {
-"Frontend" : ['Flutter', 'Dart']
-"Backend"  : ['FireBase','FireStore','SQLFLite'],
+"Frontend" : ['Flutter', 'Dart','Vue']
+"Backend"  : ['FireBase','NodeJS'],
+"Database" : ['FireStore, MongoDB, Sqlite, MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
 }
 
