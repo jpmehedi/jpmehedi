@@ -23,11 +23,11 @@
 
 ### MY STACK
 
-``` Dart
+``` Dart & Golang
 {
-"Language" : ['Dart, JavaScript']
-"Frontend" : ['Flutter','Vue']
-"Backend"  : ['FireBase','NodeJS']
+"Language" : ['Dart','GoLang']
+"Frontend" : ['Flutter']
+"Backend"  : ['FireBase','Beego']
 "Database" : ['FireStore, MongoDB, Sqlite, MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
 }
