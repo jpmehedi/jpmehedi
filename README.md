@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on augnitive.com 
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning Dart & Flutter & GoLang
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Flutter Development
 - 💬 Ask me about: Dart, Flutter, UX-UI
@@ -26,10 +26,14 @@
 ``` Dart & Golang
 {
 "Language" : ['Dart','GoLang']
-"Frontend" : ['Flutter']
+"Frontend" : ['Flutter', 'Bootstrap']
 "Backend"  : ['FireBase','Beego']
-"Database" : ['FireStore, MongoDB, Sqlite, MySQL']
+"Database" : ['FireStore', 'MongoDB', 'Sqlite', 'MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
+"CMS"      : ['Wordpress']
+"Tools"    : ['Git', 'Linux', 'VS code', 'macOS', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
 }
 
 ```
+
+
