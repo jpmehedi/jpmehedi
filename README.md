@@ -1,11 +1,11 @@
 ### Hi! I AM FLUTTER DEVELOPER 👋
 
 
-- 🔭 I’m currently working on augnitive.com 
-- 🌱 I’m currently learning Dart & Flutter & GoLang
+- 🔭 I’m currently working on https://www.genexinfosys.com/
+- 🌱 I’m currently learning Dart & Flutter & Kotlin
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Flutter Development
-- 💬 Ask me about: Dart, Flutter, UX-UI
+- 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin
 - 📫 How to reach me: mehedi@augnitive.com or visit https://mehedihasaninfo.com/ or Direct Contact: +8801790180825
 - ⚡ Fun fact: coffee and bugs
 
@@ -25,9 +25,9 @@
 
 ``` Dart & Golang
 {
-"Language" : ['Dart','GoLang']
+"Language" : ['Dart','Kotlin']
 "Frontend" : ['Flutter', 'Bootstrap']
-"Backend"  : ['FireBase','Beego']
+"Backend"  : ['FireBase','RestAPI']
 "Database" : ['FireStore', 'MongoDB', 'Sqlite', 'MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
 "CMS"      : ['Wordpress']
