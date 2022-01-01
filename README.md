@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on https://www.genexinfosys.com/
-- 🌱 I’m currently learning Dart & Flutter & Kotlin
+- 🌱 I’m currently learning Kotlin, Android
 - 👯 I’m looking to collaborate on Flutter Development
-- 🤔 I’m looking for help with Flutter Development
+- 🤔 I’m looking for help with Android Development
 - 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin
 - 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: +8801790180825
 - ⚡ Fun fact: coffee and bugs
@@ -25,7 +25,7 @@ https://play.google.com/store/apps/dev?id=4935811483003877474
 
 ### MY STACK
 
-``` Dart & Golang
+``` Dart & Kotlin
 {
 "Language" : ['Dart','Kotlin']
 "Frontend" : ['Flutter', 'XML']
