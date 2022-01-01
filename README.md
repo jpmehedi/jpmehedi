@@ -26,9 +26,9 @@
 ``` Dart & Golang
 {
 "Language" : ['Dart','Kotlin']
-"Frontend" : ['Flutter', 'Bootstrap']
+"Frontend" : ['Flutter', 'XML']
 "Backend"  : ['FireBase','RestAPI']
-"Database" : ['FireStore', 'MongoDB', 'Sqlite', 'MySQL']
+"Database" : ['FireStore', 'Hive', 'Sqlite', 'MySQL']
 "UI"       : ['Meterial Design', 'SwiftUI']
 "CMS"      : ['Wordpress']
 "Tools"    : ['Git', 'Linux', 'VS code', 'macOS', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
