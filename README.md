@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Kotlin, Android
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Android Development
-- 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin
+- 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin, Swift, iOS
 - 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: +8801790180825
 - ⚡ Fun fact: coffee and bugs
 
@@ -25,9 +25,9 @@ https://play.google.com/store/apps/dev?id=4935811483003877474
 
 ### MY STACK
 
-``` Dart & Kotlin
+``` Dart, Kotlin & Swift
 {
-"Language" : ['Dart','Kotlin']
+"Language" : ['Dart','Kotlin', 'Swift']
 "Frontend" : ['Flutter', 'XML']
 "Backend"  : ['FireBase','RestAPI']
 "Database" : ['FireStore', 'Hive', 'Sqlite', 'MySQL']
