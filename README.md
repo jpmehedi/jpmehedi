@@ -1,8 +1,8 @@
 ### Hi! I AM FLUTTER DEVELOPER 👋
 
 
-- 🔭 I’m currently working on https://www.genexinfosys.com/
-- 🌱 I’m currently learning Kotlin, Android
+- 🔭 I’m currently working on https://necmoney.com/
+- 🌱 I’m currently learning Kotlin, Android, iOS
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin, Swift, iOS
