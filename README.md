@@ -15,10 +15,6 @@
 [![linked](https://user-images.githubusercontent.com/29401466/87295135-935d0f00-c526-11ea-8f5a-208be1bd116d.png)](https://www.linkedin.com/in/jpmehedi/)
 [![twitter](https://user-images.githubusercontent.com/29401466/87295693-62310e80-c527-11ea-8953-f2bc8a81f622.png)](https://twitter.com/jpmehedi/)
 
-
-### PLAY STORE DEVELOPER PROFILE 
-https://play.google.com/store/apps/dev?id=4935811483003877474
-
 ### MY PROJECTS
 | | | 
 |--------|-----|
@@ -28,8 +24,8 @@ https://play.google.com/store/apps/dev?id=4935811483003877474
 |-----|------|
 [![subidha](https://user-images.githubusercontent.com/29401466/158042640-c33ece30-0ee2-4f27-8ef0-b61219ee2d24.png)](https://play.google.com/store/apps/details?id=com.subidhabd.customerapp)|
 
-
-
+### PLAY STORE DEVELOPER PROFILE 
+https://play.google.com/store/apps/dev?id=4935811483003877474
 
 ### MY STACK
 
