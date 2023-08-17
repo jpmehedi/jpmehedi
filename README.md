@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Kotlin, Android, iOS
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Android Development
-- 💬 Ask me about: Dart, Flutter, UX-UI, Andriod, Kotlin, Swift, iOS
-- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: +8801790180825
+- 💬 Ask me about: Dart, Flutter, UX/UI, Andriod, Kotlin, Swift, iOS
+- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: 080-9995-8351
 - ⚡ Fun fact: coffee and bugs
 
 ### FOLLOW ME
