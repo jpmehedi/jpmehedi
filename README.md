@@ -1,10 +1,10 @@
 ### Hi! I AM MOBILE APP ENGINEER 👋
 
 
-- 🔭 I’m currently working on https://necmoney.com/
-- 🌱 I’m currently learning Kotlin, Android, iOS
+- 🔭 I’m currently working on self projects
+- 🌱 I’m currently learning Native Language Kotlin, Swift
 - 👯 I’m looking to collaborate on Flutter Development
-- 🤔 I’m looking for help with Android Development
+- 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about: Dart, Flutter, UX/UI, Andriod, Kotlin, Swift, iOS
 - 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: 080-9995-8351
 - ⚡ Fun fact: coffee and bugs
