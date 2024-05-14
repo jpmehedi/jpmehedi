@@ -1,8 +1,8 @@
 ### Hi! I AM MOBILE APP ENGINEER 👋
 
 
-- 🔭 I’m currently working on self projects
-- 🌱 I’m currently learning Native Language Kotlin, Swift
+- 🔭 I’m currently working on 株式会社CMatrix – CMatrix Corporation
+- 🌱 I’m currently learning on Swift/SwiftUI
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about: Dart, Flutter, UX/UI, Andriod, Kotlin, Swift, iOS
