@@ -41,7 +41,7 @@ https://stackoverflow.com/users/12755955/mehedi-hasan
 {
 "Language" : ['Dart','Kotlin', 'Swift']
 "UI"       : ['Flutter', 'SwiftUI', 'Jetpack Compose']
-"Backend"  : ['FireBase','RestAPI']
+"Backend"  : ['FireBase', 'RestAPI', AWS, Google Cloud, Google Apps Script ]
 "Database" : ['FireStore', 'Hive', 'Sqlite', 'MySQL']
 "Tools"    : ['Git', 'Linux', 'VS code', 'macOS', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
 }
