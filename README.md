@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about: Dart, Flutter, UX/UI, Andriod, Kotlin, Swift, iOS
-- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: 080-9995-8351
+- 📫 How to reach me: mehedihasaninform@gmail.com or visit https://mehedihasaninfo.com/ or Direct Contact: 070-8555-3051
 - ⚡ Fun fact: coffee and bugs
 
 ### FOLLOW ME
