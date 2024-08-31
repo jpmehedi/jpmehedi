@@ -44,7 +44,7 @@ https://stackoverflow.com/users/12755955/mehedi-hasan
 "Web"      : ['HTML', 'CSS', 'VUE.JS', 'JavaScript']
 "Backend"  : ['FireBase', 'RestAPI', AWS, Google Cloud, Google Apps Script, SpreadSheet ]
 "Database" : ['FireStore', 'Hive', 'Sqlite', 'MySQL']
-"Tools"    : ['Git', 'Linux', 'VS code', 'macOS', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
+"Tools"    : ['Git', 'VS code', 'Windows', 'macOS', 'Slack', 'Trello', 'Jira', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
 }
 
 ```
