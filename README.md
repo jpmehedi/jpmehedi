@@ -39,8 +39,9 @@ https://stackoverflow.com/users/12755955/mehedi-hasan
 
 ``` Dart, Kotlin & Swift
 {
-"Language" : ['Dart','Kotlin', 'Swift']
+"Language" : ['Dart', 'Kotlin', 'Swift']
 "UI"       : ['Flutter', 'SwiftUI', 'Jetpack Compose']
+"Web"      : ['HTML', 'CSS', 'VUE.JS', 'JavaScript']
 "Backend"  : ['FireBase', 'RestAPI', AWS, Google Cloud, Google Apps Script ]
 "Database" : ['FireStore', 'Hive', 'Sqlite', 'MySQL']
 "Tools"    : ['Git', 'Linux', 'VS code', 'macOS', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Xcode', 'Dart Dev Tool']
