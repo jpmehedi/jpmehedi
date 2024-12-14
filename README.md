@@ -18,7 +18,7 @@
 ### MY PROJECTS
 | | | 
 |--------|-----|
-|[![nec_money](https://user-images.githubusercontent.com/29401466/158042607-47171f04-512a-4a09-969f-064e920d5b86.png)](https://apps.apple.com/us/app/nec-money/id1476959641)| [![clockdo](https://user-images.githubusercontent.com/29401466/158042626-614bf7cd-0b05-465b-8a9e-3da92c3a19b4.png)](https://play.google.com/store/apps/details?id=com.augnitive.todo)|
+|[![nec_money](https://user-images.githubusercontent.com/29401466/158042607-47171f04-512a-4a09-969f-064e920d5b86.png)](https://apps.apple.com/us/app/nec-money/id1476959641)|[![事務管理](https://github.com/user-attachments/assets/973b7bc9-9d5b-4914-a471-ec4227388dff)](https://apps.apple.com/jp/app/事務管理/id6738935892)| 
 |-----|-----|
 [![pharmacy](https://user-images.githubusercontent.com/29401466/158042651-f11a65b1-ba33-433a-94ed-bdf427bcb033.png)](https://play.google.com/store/apps/details?id=com.subidhabd.pharmacy)|[![age_cal](https://user-images.githubusercontent.com/29401466/158042662-eaaa2e88-774b-46db-8f2e-abafbc00dd05.png)](https://play.google.com/store/apps/details?id=com.mehedihasaninfo.age_calculator)|
 |-----|------|
@@ -26,7 +26,9 @@
 |-----|------|
 [![Programming Quiz](https://github.com/jpmehedi/jpmehedi/assets/29401466/e6121c0e-6e39-400d-8957-0d49fbbd9787)](https://play.google.com/store/apps/details?id=com.interview.quiz_app)|[![Daily Note](https://github.com/jpmehedi/solutionspain/assets/29401466/3563645c-b95f-4fb3-a29e-1e82d6c53bb0)](https://github.com/jpmehedi/daily_notes)|
 |-----|------|
-[![Weather App iOS](https://github.com/jpmehedi/bdfoodrecepie/assets/29401466/aa30bdcc-f6dc-428f-a9ae-9bf5b40affcb)](https://github.com/jpmehedi/weather_app_ios)|
+[![Weather App iOS](https://github.com/jpmehedi/bdfoodrecepie/assets/29401466/aa30bdcc-f6dc-428f-a9ae-9bf5b40affcb)](https://github.com/jpmehedi/weather_app_ios)|[![clockdo](https://user-images.githubusercontent.com/29401466/158042626-614bf7cd-0b05-465b-8a9e-3da92c3a19b4.png)](https://play.google.com/store/apps/details?id=com.augnitive.todo)|
+
+
 
 
 
