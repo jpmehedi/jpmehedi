@@ -1,4 +1,4 @@
-### Hi! I AM MOBILE APP ENGINEER 👋
+### Full-Stack Engineer & Product Owner | Specialized in Dart, Flutter, GCP & Firebase | Experienced in AWS, Swift, SwiftUI, JavaScript, React, Node.js & WordPress | Architecting Scalable Cross-Platform Applications
 
 
 - 🔭 I’m currently working on 株式会社CMatrix – CMatrix Corporation
