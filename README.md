@@ -1,12 +1,14 @@
-### Full-Stack Engineer & Product Owner | Specialized in Dart, Flutter, GCP & Firebase | Experienced in AWS, Swift, SwiftUI, JavaScript, React, Node.js & WordPress | Architecting Scalable Cross-Platform Applications
+## 🚀 Full-Stack Engineer & Product Owner
+
+### Specialized in Dart, Flutter, GCP & Firebase | Experienced in AWS, Swift, SwiftUI, JavaScript, React, Node.js & WordPress | Architecting Scalable Cross-Platform Applications
 
 
-- 🔭 I’m currently working on 株式会社CMatrix – CMatrix Corporation
-- 🌱 I’m currently learning on Swift/SwiftUI
-- 👯 I’m looking to collaborate on Flutter Development
-- 🤔 I’m looking for help with Backend Development
-- 💬 Ask me about: Dart, Flutter, UX/UI, Andriod, Kotlin, Swift, iOS
-- 📫 How to reach me: mehedihasaninform@gmail.com or Direct Contact: 070-8555-3051
+- 🔭 Currently working at CMatrix Corporation (株式会社CMATRIX)
+- 🌱 Exploring AI and its integration with mobile and web applications
+- 👯 Open to collaborating on Flutter development projects
+- 🤔 Looking for partners in product development and innovation
+- 💬 Ask me about Dart, Flutter, GCP & Firebase, AWS, Swift, SwiftUI, UX/UI, Android, Kotlin, JavaScript, React, Node.js, and WordPress
+- 📫 Reach me at mehedihasaninform@gmail.com or 070-8555-3051
 - ⚡ Fun fact: coffee and bugs
 
 ### FOLLOW ME
